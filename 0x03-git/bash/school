@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #!/bin/bash
 >>>>>>> 7567435f1ddbf2bc8b86ec1d7b8a020dff0afb3d
 echo "School"
+=======
+echo "The school is open!"
+>>>>>>> update_script
